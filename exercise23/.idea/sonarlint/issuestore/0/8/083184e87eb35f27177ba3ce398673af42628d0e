@@ -1,0 +1,16 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å¤ı·
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µË°
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ê¾°F
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö€¼…
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Ø“İÌ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(š˜¬ûÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¡÷Òâûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(”ıÀƒÿÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(£¿Ä¦üÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ä©şøÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(‘‘úüÿÿÿÿ
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¤§ûÃüÿÿÿÿ8Ÿ‡Ó„À/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ÂÒÜöùÿÿÿÿ8Ÿ‡Ó„À/

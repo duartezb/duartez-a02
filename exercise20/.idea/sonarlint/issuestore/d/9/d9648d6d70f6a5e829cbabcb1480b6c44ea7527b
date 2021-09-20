@@ -1,0 +1,10 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "tax".(ãÎ¶è8²¦Æù¿/
+]
+java:S1854";Remove this useless assignment to local variable "tAmount".(ÛÓàúÿÿÿÿ8²¦Æù¿/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ØÂúÿÿÿÿ8­Í¿ù¿/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß˜Üñùÿÿÿÿ8­Í¿ù¿/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(åİŒÖ8®Í¿ù¿/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(à ãÁşÿÿÿÿ8¯Í¿ù¿/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(çÀÚ½8¯Í¿ù¿/
